@@ -4,22 +4,22 @@
 
 ## System uses Mongo atlas a database and when you run backend code, database connection is automatically start
 
-## 1- Clone project ```git clone https://github.com/mkaraa/MEVN-Stack-Ticket-Systemhttps://github.com/mkaraa/MEVN-Stack-Ticket-System```
+## Clone project ```git clone https://github.com/mkaraa/MEVN-Stack-Ticket-Systemhttps://github.com/mkaraa/MEVN-Stack-Ticket-System```
 
-## 2- ```cd ticket-backend``` 
+ ```cd ticket-backend``` 
 
-## 3- ```npm install```
+ ```npm install```
 
-## 4- ```npm start``` 
+ ```npm start``` 
 
 ## Backend will start 
 
 ## Open a new terminal page
 
-## ```cd ticket-frontend```
+ ```cd ticket-frontend```
 
-## ```npm install```
+ ```npm install```
 
-## ```npm run serve```
+ ```npm run serve```
 
 ## Frontend will start
