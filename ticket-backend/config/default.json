@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://ticket:ticket@cluster0.c0fr5.mongodb.net/ticket?retryWrites=true&w=majority",
+    "TOKEN_SECRET":"secretKey"
+}
