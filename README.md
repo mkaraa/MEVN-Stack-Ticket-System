@@ -6,7 +6,7 @@
 
  Clone project 
 
-```git clone https://github.com/mkaraa/MEVN-Stack-Ticket-Systemhttps://github.com/mkaraa/MEVN-Stack-Ticket-System```
+```git clone https://github.com/mkaraa/MEVN-Stack-Ticket-System```
 
  ```cd ticket-backend``` 
 
