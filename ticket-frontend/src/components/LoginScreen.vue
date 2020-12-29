@@ -159,8 +159,8 @@ export default {
     login: function () {
       axios
         .post("http://localhost:5000/ticket/api/login", {
-          email: "user@gmail.com",
-          password: "1234",
+          email: this.email,
+          password: this.password,
         })
         .then((response) => {
           if (response.status == 200) {
